@@ -1,0 +1,23 @@
+.jumbotron {
+  background-color: rgb(40, 248, 255);
+  height: 480px;
+}
+.carousel {
+  align-items: center;
+  padding: 3%;
+  padding-left: 7%;
+  padding-right: 7%;
+}
+
+.carousel img {
+  height: 550px;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.slidefoto {
+}
